@@ -1,2 +1,2 @@
 # CV.github.io
-My CV
+This is my personal CV
